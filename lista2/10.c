@@ -22,7 +22,7 @@ número quadrado cubo
             scanf("%f", &x);
 
 
-            printf("%f %f %f",x,x*x,x*x*x);
+            printf("%2f %2f %2f",x,x*x,x*x*x);
 
     return 0;
     }
